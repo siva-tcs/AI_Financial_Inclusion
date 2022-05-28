@@ -17,3 +17,4 @@ Use AI
 
 Reference 
 https://aiforgood.itu.int/event/ai-and-financial-inclusion/
+https://www.kaggle.com/datasets/enockmokua/financial-dataset?resource=download
