@@ -21,3 +21,7 @@ https://aiforgood.itu.int/event/ai-and-financial-inclusion/
 https://www.kaggle.com/datasets/enockmokua/financial-dataset?resource=download
 <br>
 https://www.youtube.com/watch?v=V5_J6Z42jmo
+
+<B> Brain Stroming </B>
+Selection of Tools
+https://cloud.google.com/blog/topics/developers-practitioners/where-should-i-run-my-stuff-choosing-google-cloud-compute-option
