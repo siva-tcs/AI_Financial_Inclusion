@@ -5,12 +5,12 @@ Topics of interest
 1. Using AI for financial inclusion
 <br>
 <b>Problem Statement</b>
- Getting loans without credit history is difficult. Often Banks turn back not taking correct judgement on giving
- loans to deserved person. How do we judge if a person has no credit history but credit worthy
+ Assistance needed for elderly users who needs to be get automatic assistance to get digital services with
+ confidence
  
  How to solve
  1. Acquire releavant social data 
- 2. Score based on social data come up with credit worthiness score
+ 2. Score based on social data come up with assistance needed
 
 Approach
 Use AI
