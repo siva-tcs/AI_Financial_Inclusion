@@ -1,0 +1,29 @@
+gcloud auth application-default login
+export ENDPOINT_ID="4250659176423882752"
+export PROJECT_ID="notional-portal-349616"
+export INPUT_DATA_FILE="sampleinput.json"
+curl \
+-X POST \
+-H "Authorization: Bearer $(gcloud auth print-access-token)" \
+-H "Content-Type: application/json" \
+https://europe-west2-aiplatform.googleapis.com/v1/projects/${PROJECT_ID}/locations/europe-west2/endpoints/${ENDPOINT_ID}:predict \
+-d "@${INPUT_DATA_FILE}"
+
+
+https://googleapis.dev/python/aiplatform/latest/index.html
+
+
+#########################################################################################################################################################
+Model 2
+gcloud auth application-default login
+export ENDPOINT_ID="8920329040053665792"
+export PROJECT_ID="notional-portal-349616"
+export INPUT_DATA_FILE="sampleinput_m2.json"
+curl \
+-X POST \
+-H "Authorization: Bearer $(gcloud auth print-access-token)" \
+-H "Content-Type: application/json" \
+https://europe-west2-aiplatform.googleapis.com/v1/projects/${PROJECT_ID}/locations/europe-west2/endpoints/${ENDPOINT_ID}:predict \
+-d "@${INPUT_DATA_FILE}"
+
+#########################################################################################################################################################

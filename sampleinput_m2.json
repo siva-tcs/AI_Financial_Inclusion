@@ -1,0 +1,19 @@
+{
+  "instances": [
+    { "age": "95","job": "retired","marital": "divorced","education": "primary"
+      ,"default": "no","balance": "2282","housing": "no","loan": "no","contact": "telephone",
+      "poutcome": "unknown"
+    },
+    { "age": "48","job": "management","marital": "married","education": "tertiary"
+      ,"default": "no","balance": "10347","housing": "yes","loan": "no","contact": "cellular",
+      "poutcome": "unknown"
+    },
+    { "age": "65","job": "retired","marital": "divorced","education": "primary"
+      ,"default": "no","balance": "2282","housing": "no","loan": "no","contact": "cellular",
+      "poutcome": "unknown"
+    }
+
+  ]
+}
+
+
