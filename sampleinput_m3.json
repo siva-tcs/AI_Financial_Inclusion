@@ -1,0 +1,22 @@
+{
+  "instances": [
+    { "age": "18","job": "retired","marital": "divorced","education": "unknown"
+      ,"default": "no","balance": "2282","housing": "no","loan": "no","contact": "telephone",
+      "poutcome": "unknown","avgloginspermonth": "8","AvgSessiontime": "50",
+      "bounceRate": "0.8","successrate": "0.2","timeontask": "210","featureusagescore": "0.3"
+    },
+    { "age": "93","job": "retired","marital": "married","education": "unknown"
+      ,"default": "no","balance": "10347","housing": "yes","loan": "no","contact": "cellular",
+      "poutcome": "unknown","avgloginspermonth": "8","AvgSessiontime": "50",
+      "bounceRate": "0.8","successrate": "0.2","timeontask": "210","featureusagescore": "0.3"
+    },
+    { "age": "48","job": "services","marital": "married","education": "primary"
+      ,"default": "no","balance": "1705","housing": "no","loan": "no","contact": "cellular",
+      "poutcome": "unknown","avgloginspermonth": "15","AvgSessiontime": "130",
+      "bounceRate": "0.3","successrate": "0.7","timeontask": "90","featureusagescore": "0.8"
+    }
+
+  ]
+}
+
+
